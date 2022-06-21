@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kreesty_choudhury
 - 👀 I’m interested in Learning Different Languages
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning JAVA
 - 📫 How to reach me kreesty12345@gmail.com
 
 <!---
